@@ -1,0 +1,5 @@
+com\casestudy\app\controller\ProductController.class
+com\casestudy\app\respository\ProductsRepository.class
+com\casestudy\app\service\ProductsService.class
+com\casestudy\app\domain\Product.class
+com\casestudy\app\Application.class

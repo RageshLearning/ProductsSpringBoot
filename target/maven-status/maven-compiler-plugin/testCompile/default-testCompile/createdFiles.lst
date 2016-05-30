@@ -1,0 +1,3 @@
+com\casestudy\app\repository\ProductsRepositoryTest.class
+com\casestudy\app\controller\ProductControllerTest.class
+com\casestudy\app\service\ProductsServiceTest.class
